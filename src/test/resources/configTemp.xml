@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <properties>
 	<driver>org.apache.phoenix.jdbc.PhoenixDriver</driver>
-	<cluster>jdbc:phoenix:cox.fr.world.socgen,dorian.fr.world.socgen,espinosa.fr.world.socgen:2181:/hbase-unsecure
+	<cluster>jdbc:phoenix:clusteraddress/hbase-db
 	</cluster>
 </properties>
